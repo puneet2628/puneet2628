@@ -25,17 +25,6 @@
 
 ---
 
-## ✨ Strengths:
-- Strong problem-solving and analytical skills.  
-- Goal-oriented with effective team management capabilities.  
-- Ability to craft unique and innovative solutions.  
 
----
-
-## 🎓 Education:
-- Diploma in Information Technology – Himachal Pradesh Takniki Shiksha Board.  
-- Senior Secondary Education – HP Board.  
-
----
 
 Feel free to connect with me or check out my projects on [GitHub](https://github.com/puneet2628)! 😊
